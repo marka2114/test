@@ -7,7 +7,7 @@ source project that lets you virtually emulate Linux on your physical computer
 
 1. [How to install Docker](docker_windows.md),
 
-2. [How to run Docker](docker_running_ipynb.md) using a Docker container specifically built for INFO 490, and
+2. [How to run Docker](docker_running_ipynb.md) using a Docker container specifically built for this course, and
 
 3. [How to install shared folders](docker_folder_sharing.md).
 
