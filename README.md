@@ -1,4 +1,6 @@
-# University of Illinois, INFO 490: Introduction to Data Science
+# Practical Data Science
+#
+# University of Illinois, Research Park
 
-- Instructor: Prof. Robert Brunner
-- TA: Edward Kim
+## Instructor: Robert J. Brunner
+## Spring 2015
