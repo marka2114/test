@@ -52,7 +52,7 @@ and a file named "hello" should appear in the "data" folder of your Explorer win
 And to run the IPython notebook server with our data container, type
 
 ```console
-$ docker run -d -p 8888:8888 -e "PASSWORD=YourPassword" --volumes-from my-data lcdm/info490
+$ docker run -d -p 8888:8888 -e "PASSWORD=YourPassword" --volumes-from my-data lcdm/pds
 ```
 
 Note: If you are still running a notebook server from the previous section, you will see an error, and you will need to stop the previous notebook server. List docker containers by typing:
