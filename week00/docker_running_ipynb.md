@@ -2,9 +2,9 @@
 
 First, you should definitely go though the [10-minute Docker tutorial](https://www.docker.com/tryit/). If you are not familiar with the command prompt, don't worry; we will learn the Unix command line interface (CLI) in the following weeks. Just type the commands exactly as shown in the following sections and make sure that you get the expected results.
 
-I also highly encourage you to go through the [Docker User Guide](https://docs.docker.com/userguide/) tolearn more about Docker. In the following sections, we will install a Docker container image that is specifically built for INFO 490, and make sure that your machine can run an IPython notebook server.
+I also highly encourage you to go through the [Docker User Guide](https://docs.docker.com/userguide/) tolearn more about Docker. In the following sections, we will install a Docker container image that is specifically built for this course, and make sure that your machine can run an IPython notebook server.
 
-### INFO 490 Container
+### PDS Container
 
 If you are using Boot2Docker, it will log you in automatically so you can start using Docker right away, and you will see the following command prompt:
 
@@ -12,20 +12,20 @@ If you are using Boot2Docker, it will log you in automatically so you can start 
 docker@boot2docker:~$
 ```
 
-First, download our INFO 490 Docker image by typing
+First, download our PDS course Docker image by typing
 
 ```console
-$ docker pull lcdm/info490
+$ docker pull lcdm/pds
 ```
 
 It is common for the prompt on Unix systems to end in a $ character. Thus, it
 is common to indicate that the given example is a Unix command by writing the $
-symbol at the beginning. So when I told you to type `$ docker pull lcdm/info490`, I was actually telling you that this is a Unix command and you have to type `docker pull lcdm/info490` (without `$`) at the prompt.
+symbol at the beginning. So when I told you to type `$ docker pull lcdm/pds`, I was actually telling you that this is a Unix command and you have to type `docker pull lcdm/pds` (without `$`) at the prompt.
 
 After the download process completes (with no error; if you get an error anywhere during this assignment, ask for help or google it), let's make sure that it works:
 
 ```console
-$ docker run lcdm/info490 /bin/echo "hello world"
+$ docker run lcdm/pds /bin/echo "hello world"
 hello world
 ```
 
@@ -34,7 +34,7 @@ hello world
 For the first couple of weeks, you will need to enter an **interactive mode** by specifying `-it` option:
 
 ```console
-$ docker run -it lcdm/info490 /bin/bash
+$ docker run -it lcdm/pds /bin/bash
 root@0b2616b0e5a8:/# echo "hello world"
 hello world
 ```
@@ -46,7 +46,7 @@ You can tell that you are in a different server as a different user because `use
 We will also be using **IPython** notebooks for most part of the course, so let's make sure that the notebook server is working properly. Type (change "YourPassword" to something you would remember)
 
 ```console
-$ docker run -d -p 8888:8888 -e "PASSWORD=YourPassword" lcdm/info490
+$ docker run -d -p 8888:8888 -e "PASSWORD=YourPassword" lcdm/pds
 ```
 
 Now open up a web browser of your choice on your **host** machine and go to http://192.168.59.103:8888. After you enter your password, you will be able to access the notebook server.
