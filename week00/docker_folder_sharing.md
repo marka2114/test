@@ -37,7 +37,7 @@ You can then use your data container from any container you like. For
 interactive mode, you would type
 
 ```console
-$ docker run -it --volumes-from my-data lcdm/info490 /bin/bash
+$ docker run -it --volumes-from my-data lcdm/pds /bin/bash
 ```
 
 You can make sure that the data container is mounted correctly by typing the following in your container:
@@ -60,7 +60,7 @@ Note: If you are still running a notebook server from the previous section, you 
 ```console
 $ sudo docker ps -a
 CONTAINER ID        IMAGE                    COMMAND             CREATED             STATUS              PORTS                    NAMES
-c693f2078b1e        lcdm/info490:latest   "/notebook.sh"      19 seconds ago      Up 18 seconds       0.0.0.0:8888->8888/tcp   agitated_carson
+c693f2078b1e        lcdm/pds:latest   "/notebook.sh"      19 seconds ago      Up 18 seconds       0.0.0.0:8888->8888/tcp   agitated_carson
 ```
 
 The notebook server's COMMAND is "/notebooks.sh" and its PORTS shows
