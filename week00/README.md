@@ -1,5 +1,5 @@
 ## PDS: Virtualization with Docker
-### Author: Edward Kim
+#### Author: Edward Kim
 
 In this course, we will be using [Docker](https://www.docker.com/), an open
 source project that lets you virtually emulate Linux on your physical computer
