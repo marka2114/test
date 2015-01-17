@@ -1,7 +1,7 @@
 ## How to Install Docker
 
 To run Docker on Windows or Mac OS X, you need to install an application called
-[Boot2Docker](http://boot2docker.io/). The [official Docker documentation](https://docs.docker.com/) provides clear [installation guides](https://docs.docker.com/installation/#installation) for a variety of platforms. After installing Boot2Docker, you should proceed to the [next section](docker_running_ipynb.md) on how to use INFO 490 Docker container to launch an IPython notebook server.
+[Boot2Docker](http://boot2docker.io/). The [official Docker documentation](https://docs.docker.com/) provides clear [installation guides](https://docs.docker.com/installation/#installation) for a variety of platforms. After installing Boot2Docker, you should proceed to the [next section](docker_running_ipynb.md) on how to use PDS Docker container to launch an IPython notebook server.
 
 ### Windows
 
