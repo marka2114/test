@@ -20,7 +20,7 @@ hardware virtualization.
 
 -----
 
-## How to Install Docker
+## How to Install the Docker Engine
 
 The [official Docker documentation](https://docs.docker.com/) provides
 clear [installation
@@ -53,7 +53,7 @@ Docker documentation.
 
 -----
 
-## Boot2Docker
+### Boot2Docker
 
 If you are on a Windows or Mac OSX computer, you will have first
 installed the Boot2Docker application. Once this application is
