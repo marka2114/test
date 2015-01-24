@@ -65,6 +65,7 @@ As an example, here is the Boot2Docker initiated shell script on Mac OSX:
 
 ![macosx boot2docker](images/macosx-boot2docker.png)
 
+-----
 
 ## The Practical Data Science Docker Container
 
@@ -81,8 +82,12 @@ If you have been succesful, the `hello world` message will be displayed in your 
 
 ![macosx docker pull](images/macosx-dockerpull.png)
 
+-----
+
 ## Docker Shared Folders
 
 Although not required for this course, you can share folders between a Docker container and your normal, host operating system.  For a Mac OSX or Windows system, you will first need to [Enable Folder Sharing in Boot2Docker](https://github.com/boot2docker/boot2docker#folder-sharing)
 
 For Linux systems, you can follow the general instructions for [setting up data volumes](https://docs.docker.com/userguide/dockervolumes/) in the Docker documentation.
+
+-----
