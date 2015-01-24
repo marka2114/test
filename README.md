@@ -44,6 +44,6 @@ Before class starts, you should install the [Docker Engine](Week0/Docker.md) and
 
 -----
 
-The _Pracitcal Data Science_ course [License](LICENSE.md)
+The _Practical Data Science_ course [License](LICENSE.md)
 
 -----
