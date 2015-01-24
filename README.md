@@ -10,4 +10,4 @@ Spring 2015
 
 -----
 
-License [Information](License.md)
+[License Information](LICENSE.md)
