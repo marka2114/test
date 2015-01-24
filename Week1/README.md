@@ -1,2 +1,10 @@
-#
-This needs to link into README.md files in subdirectories to give lecture flow.
+# Practical Data Science
+
+### University of Illinois, Research Park course
+
+-----
+
+Week 1:
+
+
+-----
