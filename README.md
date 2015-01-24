@@ -6,7 +6,39 @@ Spring 2015
 
 -----
 
-[Orientation Week](Week0/Docker.md)
+[Orientation Week](Week0/Docker.md)  
+
+-----
+
+Week 1: Data Science at the Command Line  
+
+-----
+
+Week 2: Practical iPython  
+
+-----
+
+Week 3: Exploring Data Through Visualizations  
+
+-----
+
+Week 4: Using Python DataFrames (Pandas)  
+
+-----
+
+Week 5: Using Databases  
+
+-----
+
+Week 6:  Data Acquisition  
+
+-----
+
+Week 7: Statistical & Machine Learning  
+
+-----
+
+Week 8:  Eight: Data Intensive Computing  
 
 -----
 
