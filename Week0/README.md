@@ -1,6 +1,6 @@
 # Practical Data Science
 
-## University of Illinois, Research Park course
+### University of Illinois, Research Park course
 
 -----
 
