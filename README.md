@@ -6,8 +6,8 @@ Spring 2015
 
 -----
 
-[Orientation Week](Week0/Docker.md) :  
-Before class starts, you should install the Docker Engine and the Docker container built for this _Practical Data Science_ course.
+Orientation Week :  
+Before class starts, you should install the [Docker Engine](Week0/Docker.md) and the Docker container built for this _Practical Data Science_ course.
 
 -----
 
