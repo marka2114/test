@@ -30,7 +30,7 @@ Week 5: Using Databases
 
 -----
 
-Week 6:  Data Acquisition  
+Week 6: Data Acquisition  
 
 -----
 
@@ -38,7 +38,7 @@ Week 7: Statistical & Machine Learning
 
 -----
 
-Week 8:  Eight: Data Intensive Computing  
+Week 8: Data Intensive Computing  
 
 -----
 
