@@ -2,6 +2,9 @@
 ## Robert J. Brunner
 January 25, 2015
 
+Following information located at 
+http://docs.docker.com/userguide/dockerimages/
+
 At boot2docker prompt (on Mac OSX):
 bash-3.2$ docker build -t="lcdm/rppds" .
 
