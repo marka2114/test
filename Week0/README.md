@@ -6,6 +6,6 @@
 
 Orientation Week:
 
-Please install [Docker and our course Docker container](Docker.md).
+Please install the  [Docker Engine](Docker.md) and the Docker container built for the _Practical Data Science_ course.
 
 -----
