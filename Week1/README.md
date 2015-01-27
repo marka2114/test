@@ -1,10 +1,9 @@
 # Practical Data Science
-
-### University of Illinois, Research Park course
+## Professor Robert J. Brunner
+## University of Illinois, Research Park course
 
 -----
 
-Week 1:
-
+Week 1: [Introduction to the Unix Command Line](Week1/README.md)
 
 -----
