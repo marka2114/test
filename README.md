@@ -6,20 +6,31 @@ Spring 2015
 
 -----
 
-### Orientation Week :  
- 
-Install the [Docker Engine](Week0/Docker.md) and the Docker container
-built for this _Practical Data Science_ course. You also should visit
-the course Piazza.
+<font color = "red">
+Note: This is a __draft__ version that will be revised as we progress through the course.
+</font>
 
-### Week 1: Data Science at the Command Line:  
- 
+### Week 1: Introduction to Practical Data Science 
+
+Review the course schedule and learning goals before posting a welcome
+message on the course Piazza. Next, learn about virtualization and the
+Docker engine and Docker container concept. In a breakout session,
+install the [Docker Engine](Week0/Docker.md) and the course Docker image
+built for this _Practical Data Science_ course. Next, learn about source
+code version control, and how to accomplish this by using the git tool.
+In a breakout session, learn to work with git at the command line, and
+navigate the github site. Review basic Unix concepts and gain experience
+working at the Unix command prompt.
+
+### Week 2: Practical Command Line Data Science and the IPython Notebook:  
+
+Learn about Unix, the Unix shell, and the Unix process model and filesystem. 
+ to perform 
 Use the Docker technology by working at the Unix command prompt within
 the course Docker container in interactive mode. This will focus on
 using Unix command line tools and techniques to work with data in the
 BASH shell
 
-### Week 2: Practical IPython:  
 
 Learn how to use the IPython notebook by using the course Docker
 container in server mode. Also learn basic Python programming, python
