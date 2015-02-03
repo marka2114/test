@@ -6,6 +6,10 @@ Spring 2015
 
 -----
 
+The [Course Index](http://nbviewer.ipython.org/github/ProfessorBrunner/rp-pds15/blob/master/index.ipynb) page provides links to each week's lessons.
+
+-----
+
 <font color = "red">
 Note: This is a __draft__ version that will be revised as we progress through the course.
 </font>
