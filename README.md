@@ -26,34 +26,37 @@ In a breakout session, learn to work with git at the command line, and
 navigate the github site. Review basic Unix concepts and gain experience
 working at the Unix command prompt.
 
-### Week 2: Practical Command Line Data Science and the IPython Notebook:  
+### Week 2: Practical Command Line Data Science:  
 
-Learn about Unix, the Unix shell, and the Unix process model and filesystem. 
- to perform 
-Use the Docker technology by working at the Unix command prompt within
-the course Docker container in interactive mode. This will focus on
-using Unix command line tools and techniques to work with data in the
-BASH shell
+Learn about Unix, the Unix shell, and the Unix process model and
+filesystem. Use the Docker technology by working at the Unix command
+prompt within the course Docker container in interactive mode. This will
+focus on using Unix command line tools and techniques to work with data
+in the BASH shell
 
+### Week 3: Introduction to Python programming and the IPython Notebook
 
 Learn how to use the IPython notebook by using the course Docker
 container in server mode. Also learn basic Python programming, python
 data types, and file I/O, before finishing with a quick overview of the
 numpy and scipy libraries.
 
-### Week 3: Exploring Data Through Visualizations:  
+### Week 4: Exploring Data Through Visualizations:  
  
 Learn how to make data visualization by using Python, primarily from
 within the IPython notebook by using matplotlib and seaborn. This will
 include a discussion of scatter plots, linear regression and plotting,
 histograms, box plots, and other advanced visualization concepts.
 
-### Week 4: Using Python DataFrames (Pandas):  
+<!-- Note: I have had to move this elsewhere, perhaps into Week 6
+
+Using Python DataFrames (Pandas):  
 
 Learn about the _Data Frame_ concept and how to use it within Python by
 using the Pandas library. This will include ways to load and work with
 large tabular data, and to performa basic data operations like cleaning,
 transforming, merging, and reshaping.
+-->
 
 ### Week 5: Using Databases:  
 
