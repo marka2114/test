@@ -41,9 +41,11 @@ RUN apt-get install -y -q \
     python3-scipy \
     python3-matplotlib \
     python3-pandas \
-    python3-bs4 \
-    ipython3 \
-    ipython3-notebook
+    python3-bs4 
+
+# Install IPython (This gets latest version)
+
+RUN pip3 install ipython pyzmq jinja2 pygments bokeh
 
 # scikit-learn cannot be installed with apt-get
 
