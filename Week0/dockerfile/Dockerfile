@@ -46,6 +46,8 @@ RUN apt-get install -y -q \
 # Install IPython (This gets latest version)
 
 RUN pip3 install ipython pyzmq jinja2 pygments bokeh
+RUN pip3 install statsmodels
+RUN apt-get install -y -q ttf-liberation
 
 # scikit-learn cannot be installed with apt-get
 
